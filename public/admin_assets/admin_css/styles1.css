@@ -1,0 +1,333 @@
+<style type=text/css>{  }
+.add{
+	background-color:#FFF;
+	color:#006400;
+	 font-size:14px;
+	 border-radius: 5px 5px 5px 5px;
+	  padding: 2px 3px 2px 3px;
+	 font-weight:bold;
+	 text-decoration:none;
+	width:120px;
+	height:30px;
+	border:1px solid #006400;
+	redious:5px;
+	cursor:pointer;
+	
+	}
+	.add:hover{background-color:#FFF;
+	color:#000;
+	 font-size:14px;
+	 border-radius: 5px 5px 5px 5px;
+	 	  padding: 2px 3px 2px 3px;
+
+	 font-weight:bold;
+	width:120px;
+	height:30px;
+	border:1px solid #000;
+	redious:5px;}
+A.top_menu:link {
+	COLOR: #FFFFFF; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 12px;	
+}
+A.top_menu:visited {
+	COLOR: #FFFFFF; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 12px;
+}
+A.top_menu:hover {
+	COLOR: #FFCC00; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 12px;	
+	
+}
+
+A.menu:link {
+	COLOR: #000000; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 12px;	
+}
+A.menu:visited {
+	COLOR: #000000; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 12px;
+}
+A.menu:hover {
+	COLOR: #3F51CF; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 12px;	
+	
+}
+
+A.banner_menu:link {
+	COLOR: #ffffff; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 11px;
+	font-weight:bold;
+}
+A.banner_menu:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 11px;
+	font-weight:bold;
+}
+A.banner_menu:hover {
+	COLOR: #FF9900; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 11px;
+	font-weight:bold;
+	
+}
+A.leftmenu:link {
+	COLOR: #000000; TEXT-DECORATION: none;
+	font-family:verdana;
+	FONT-SIZE: 10px;	
+	width:100%;		
+}
+A.leftmenu:visited {
+	COLOR: #000000; TEXT-DECORATION: none;
+	font-family:verdana;
+	FONT-SIZE: 10px;	
+	width:100%;	
+}
+A.leftmenu:hover {
+	COLOR: #FF9933; TEXT-DECORATION: none;
+	font-family:verdana;
+	FONT-SIZE: 10px;	
+	width:100%;	
+	
+}
+
+A.rightmenu:link {
+	COLOR: #000000; TEXT-DECORATION: none;
+	font-family:Trebuchet MS, Arial;
+	FONT-SIZE: 11px;	
+	width:100%;		
+}
+A.rightmenu:visited {
+	COLOR: #000000; TEXT-DECORATION: none;
+	font-family:Trebuchet MS, Arial;
+	FONT-SIZE: 11px;	
+	width:100%;	
+}
+A.rightmenu:hover {
+	COLOR: #022994; TEXT-DECORATION: none;
+	font-family:Trebuchet MS, Arial;
+	FONT-SIZE: 11px;	
+	width:100%;	
+	
+}
+A.Admin_Left_Menu:link {
+	COLOR: #3399CC; TEXT-DECORATION: none;
+	font-family:verdana;
+	FONT-SIZE: 10px;
+	FONT-WEIGHT:bold;
+	Width:100%;	
+}
+A.Admin_Left_Menu:visited {
+	COLOR: #3399CC; TEXT-DECORATION: none;
+	font-family:verdana;
+	FONT-SIZE: 10px;
+	FONT-WEIGHT:bold;
+	Width:100%;
+}
+A.Admin_Left_Menu:hover {
+	COLOR: #F37021; TEXT-DECORATION: none;
+	font-family:verdana;
+	FONT-SIZE: 10px;
+	FONT-WEIGHT:bold;
+	Width:100%;	
+}
+A.news:link {
+	COLOR: #333333;
+	font-family:arial; TEXT-DECORATION: none;
+	FONT-SIZE: 11px;	
+	width:100%;		
+}
+A.news:visited {
+	COLOR: #333333; TEXT-DECORATION: none;
+	font-family:arial;
+	FONT-SIZE: 11px;	
+	width:100%;	
+}
+A.news:hover {
+	COLOR: #FF3300; TEXT-DECORATION: none;
+	font-family:arial;
+	FONT-SIZE: 11px;	
+	width:100%;	
+	
+}
+
+A.link_menu:link {
+	COLOR: #3366CC; TEXT-DECORATION: none;
+	font-family:arial;
+	FONT-SIZE: 11px;
+}
+A.link_menu:visited {
+	COLOR: #3366CC; TEXT-DECORATION: none;
+	font-family:arial;
+	FONT-SIZE: 11px;
+}
+A.link_menu:hover {
+	COLOR: #333333; TEXT-DECORATION: underline;
+	font-family:arial;
+	FONT-SIZE: 11px;
+}
+A.topmenu:link {
+	COLOR: #666666; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 11px;		
+}
+A.topmenu:visited {
+	COLOR: #666666; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 11px;		
+}
+A.topmenu:hover {
+	COLOR: #FF0000; TEXT-DECORATION: none;
+	font-family:Arial;
+	FONT-SIZE: 11px;
+}
+
+A.footer_menu:link {
+	COLOR: #ffffff; TEXT-DECORATION: none;
+	font-family:arial;
+	FONT-SIZE: 11px;
+}
+A.footer_menu:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none;
+	font-family:arial;
+	FONT-SIZE: 11px;
+}
+A.footer_menu:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none;
+	font-family:arial;
+	FONT-SIZE: 11px;
+}
+.bodytext
+{
+font-family:Trebuchet MS, Arial;
+FONT-SIZE: 11px;
+color:#333;
+}
+
+.footer
+{
+	font-family:verdana, Tahoma,Arial;
+	FONT-SIZE: 11px;
+	color:#999999;
+}
+
+.bodytextbold
+{
+font-family:verdana,verdana,Tahoma,Arial;
+FONT-SIZE: 12px;
+color:#00000;
+font-weight:bold;
+}
+
+
+.sideborder
+{
+border-top:none;
+border-bottom:solid;
+border-left:solid;
+border-right:solid;
+border-width:1px;
+border-left-color:#73A2CE;
+border-right-color:#73A2CE;
+border-top-color:#73A2CE;
+border-bottom-color:#73A2CE;
+}
+
+.border
+{
+border-top:solid;
+border-bottom:solid;
+border-left:solid;
+border-right:solid;
+border-width:1px;
+border-left-color:#d9d9d9;
+border-right-color:#d9d9d9;
+border-top-color:#d9d9d9;
+border-bottom-color:#d9d9d9;
+}
+
+.missionborder
+{
+border-top:none;
+border-bottom:solid;
+border-left:solid;
+border-right:solid;
+border-width:1px;
+border-left-color:#FFCC33;
+border-right-color:#FFCC33;
+border-top-color:#FFCC33;
+border-bottom-color:#FFCC33;
+}
+
+.orange_border
+{
+border-top:none;
+border-bottom:solid;
+border-left:solid;
+border-right:solid;
+border-width:1px;
+border-left-color:#FF9900;
+border-right-color:#FF9900;
+border-top-color:#FF9900;
+border-bottom-color:#FF9900;
+}
+
+.blue_border
+{
+border-top:none;
+border-bottom:solid;
+border-left:solid;
+border-right:solid;
+border-width:1px;
+border-left-color:#207CB7;
+border-right-color:#207CB7;
+border-top-color:#207CB7;
+border-bottom-color:#207CB7;
+}
+
+.ad_border
+{
+border-top:solid;
+border-bottom:solid;
+border-left:solid;
+border-right:solid;
+border-width:1px;
+border-left-color:#d9d9d9;
+border-right-color:#d9d9d9;
+border-top-color:#d9d9d9;
+border-bottom-color:#d9d9d9;
+}
+.img_border1
+{
+border-top:none;
+border-bottom:solid;
+border-left:none;
+border-right:solid;
+border-width:1px;
+border-left-color:#ffffff;
+border-right-color:#acacac;
+border-top-color:#ffffff;
+border-bottom-color:#acacac;
+}
+.scrollbox_cs {
+	border: 1px solid #CCCCCC;
+	width: 250px;
+	height: 80px;
+	background: #FFFFFF;
+	overflow-y: scroll;
+}
+
+.cvtext {
+    color: #333333;
+    font-family: arial;
+    font-size: 14px;
+    text-decoration: none;
+}
+</style>
